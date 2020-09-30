@@ -27,7 +27,9 @@ It captures the vehicle's liscence plate accurately using Optical Character Read
 
 ## :handshake: Pedestrian Detection
 The system is capable of tracking pedestrian routes and ensure that pedestrians follow footpaths (to minimize the possibility of road accidents). In case they do not follow the rules, the Artificially Intelligent control system raises an alarm alerting to follow the correct paths. Alarm raised can either be visual or voice based. This will help in reducing the accident rates in the area. </br>
-It detects animals/pedestrians that happen to be on the roads and raise an alarm. This would act as safeguard to animals that happen to cross roads near Kaziranga forest, especially during monsoons.
+It detects animals/pedestrians that happen to be on the roads and raise an alarm. This would act as safeguard to animals that happen to cross roads near Kaziranga forest, especially during monsoons.</br>
+Download model for pedestrian detection from
+[here](https://drive.google.com/file/d/1xaN4KJAIaZ57SaH6aS2Y9-CN5_fFcLX6/view)
 
 ## :clap: Helmet Detection
 our Smart System is trained to detect if the person riding the vehicle is wearing a helmet or not. A helmet aims to reduce the risk of serious head and brain injuries by reducing the impact of a force or collision to the head. So, this becomes a necessity to be looked into. Our Tracking system identifies such defied vehicles and can be made to send their information with the vehicle number online. This will help the authorities to take legal action against such law-breakers.</br>
@@ -41,7 +43,7 @@ our Smart System is trained to detect if the person riding the vehicle is wearin
 ✔ Achieved 99% accuracy in Automatic Number Plate Recognition.</br>
 
 ## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](link here)
+:movie_camera: [YouTube Demo Link](https://youtu.be/UcGTHxn7FOs)
 
 ## :heart: Owner
 Made with :heart:&nbsp; by [Sarthak Srivastava](https://github.com/codebugged) , [Sonali](https://github.com/Sonali210) , [Gaurav Singh](https://github.com/gaurav82692) , [Mayank Singhal](https://github.com/tech-mayank)
