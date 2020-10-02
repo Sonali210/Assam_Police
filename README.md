@@ -1,5 +1,10 @@
 <h1 align="center">AI-Based Smart Tracking System</h1></ br>
 
+## :hourglass: Project Demo
+:movie_camera: [YouTube Demo Link](https://youtu.be/UcGTHxn7FOs)</br>
+
+![WhatsApp Image 2020-09-07 at 9 57 52 AM](https://user-images.githubusercontent.com/65444708/94900513-c0c8b180-04b2-11eb-9b13-583a693494dc.jpeg)
+
  ## :innocent: Tracking Solution </br>
 Team PICODERS come up with the solution to the problem statement “Smart Movement tracking solution of People/Vehicles from Point A to point B” to the aid of the law enforcement officers of Assam. Road accidents are undoubtedly the most frequent happening cases and overall, the cause of the most damage. So alongwith tracking, we come up with smart tracking system that ensures complete safety on roads as well.
 
@@ -41,9 +46,6 @@ our Smart System is trained to detect if the person riding the vehicle is wearin
 ✔ This compliance is robust, scalable and cross platform. It could infer up to 27 Frames per second.</br>
 ✔ The helmet detection is not based on conventional image processing rather is trained on our own dataset of 7000 images and uses SSD Model.</br>
 ✔ Achieved 99% accuracy in Automatic Number Plate Recognition.</br>
-
-## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](https://youtu.be/UcGTHxn7FOs)
 
 ## :heart: Owner
 Made with :heart:&nbsp; by [Sarthak Srivastava](https://github.com/codebugged) , [Sonali](https://github.com/Sonali210) , [Gaurav Singh](https://github.com/gaurav82692) , [Mayank Singhal](https://github.com/tech-mayank)
